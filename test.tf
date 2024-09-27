@@ -1,4 +1,4 @@
 output "subodh" {
-    value = "hello we are testing git and bash"
+    value = "hello we are testing git and "
   
 }
